@@ -46,3 +46,9 @@
     margin-right: 2vw;
     font-size: 24px !important;
 }
+
+.sidebar_Chats {
+    flex: 1;
+    background-color: white;
+    overflow: hidden;
+}
