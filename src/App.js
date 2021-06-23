@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import Sidebar from './Sidebar';
